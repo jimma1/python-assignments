@@ -1,7 +1,7 @@
 # Date input and output
 
 The task is to write a python program where you ask the user to input a date(day, month and year).
-It might be a good idea to ask for the this in seperate operations.
+It might be a good idea to ask for this in seperate operations.
 
 Remember to handle use cases such as:
 * not a number
