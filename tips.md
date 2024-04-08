@@ -1,7 +1,7 @@
 # Code structure
 
 ## Order
-* Start with a method named "run" which is called in "main"
+* Start with a function named "run" which is called in "main"
 * Think of the code as a book where stuff happens in a chronological order
 * Make sure a function does one thing, and one thing only.
 
